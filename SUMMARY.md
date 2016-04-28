@@ -1,6 +1,6 @@
 # Summary
 
-* [Part I](part1/README.md)
+* [Chapter 1](ch1/README.md)
     * [Writing is nice](part1/writing.md)
     * [GitBook is nice](part1/gitbook.md)
 * [Part II](part2/README.md)
