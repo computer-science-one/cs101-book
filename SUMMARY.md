@@ -6,7 +6,7 @@
    * [Typographical Conventions](prerequisites/typographical_conventions.md)
 * [Getting Started](getting_started/README.md)
    * Warp Speed
-* Chapter 0 | Introduction
+* Introduction
    * Computer Science
    * Ruby
 * [Chapter 1 | Syntax](syntax/README.md)
