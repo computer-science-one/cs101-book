@@ -34,8 +34,10 @@
 * Methods and Blocks
    * Method arguments
    * Return values
+   * Scope
 * Advanced Data Types
    * Arrays
    * Hashes
    * Symbols
 * Classes
+   * 
