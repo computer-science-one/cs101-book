@@ -28,4 +28,7 @@
    * Until loop
    * For loop
    * Loop modifier statements
+* Methods and Blocks
+   * Method arguments
+   * Return values
 
