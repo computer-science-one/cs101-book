@@ -1,4 +1,4 @@
-# Computer Science 101
+# Computer Science 101 with Ruby
 
 The purpose of this book is to provide a well-constructed, logical path for learning to program. It uses the Ruby programming language for instruction, examples, and exercises.
 
