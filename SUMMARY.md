@@ -12,6 +12,7 @@
    * IRB
    * Source Code Files
 * [Basics](basics/README.md)
+   * Comments
    * Names and identifiers
    * Types
 * Expressions
