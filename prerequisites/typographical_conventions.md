@@ -1,6 +1,6 @@
 # Typographical Conventions
 
-Ruby *source code* in this book will appear like this, with a gray background, monospace font, and syntax coloring.
+Ruby *source code* in this book will appear with a gray background, monospace font, and syntax coloring.
 
 ```ruby
 puts "Hello"
@@ -10,4 +10,10 @@ class Foobar
     Kernel.exit
   end
 end
+```
+
+Terminal commands in this book will appear in a similar fashion.
+
+```bash
+$ ruby my_prog.rb
 ```
