@@ -1,5 +1,12 @@
 # Computer Science 101
 
+GitBook.
+
+https://computer-science-one.gitbooks.io/cs101-book/content/
+
+
+# Purpose
+
 The purpose of this book is to provide a well-constructed, logical path for learning to program. It uses the Ruby programming language for instruction, examples, and exercises.
 
 From the [Ruby language website](https://www.ruby-lang.org/en/),
