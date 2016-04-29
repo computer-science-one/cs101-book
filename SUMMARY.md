@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Prerequisites](prerequisites/README.md)
    * [Installing](prerequisites/installing.md)
-   * Typographical Conventions
+   * [Typographical Conventions](prerequisites/typographical_conventions.md)
 * Getting Started
    * Warp Speed
 * Chapter 0 | Introduction
