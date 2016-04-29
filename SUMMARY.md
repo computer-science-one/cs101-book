@@ -16,6 +16,8 @@
    * Types
    * Identifiers
    * Reserved words
+   * Input
+   * Output
 * Expressions
    * Operators
    * Evaluation order
