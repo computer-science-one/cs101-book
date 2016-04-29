@@ -12,12 +12,12 @@
    * IRB
    * Source code files
 * [Basics](basics/README.md)
+   * Output 
    * Comments
    * Data types
    * Identifiers
    * Reserved words
    * Input
-   * Output
 * Expressions
    * Operators
    * Evaluation order
