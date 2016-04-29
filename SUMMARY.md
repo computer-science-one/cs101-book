@@ -8,15 +8,19 @@
    * Computer Science
    * Ruby
 * [Getting Started](getting_started/README.md)
-   * Warp Speed
+   * Terminal
+   * IRB
+   * Source Code Files
 * [Syntax](syntax/README.md)
-   * [Writing is nice](part1/writing.md)
-   * [GitBook is nice](part1/gitbook.md)
+   * Expressions
+   * Statements
 * [Variables](variables/README.md)
    * [We love feedback](part2/feedback_please.md)
    * [Better tools for authors](part2/better_tools.md)
 * [Flow Control](flow_control/README.md)
    * Boolean expressions
    * If statement
+   * Unless statement
 * Loops
+  * W
 
