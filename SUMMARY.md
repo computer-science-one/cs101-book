@@ -1,6 +1,6 @@
 # Summary
 
-* Prerequisites
+* [Prerequisites](prerequisites/README.md)
    * Installing
    * Typographical Conventions
 * Getting Started
