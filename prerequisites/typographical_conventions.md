@@ -12,7 +12,7 @@ class Foobar
 end
 ```
 
-Terminal commands in this book will appear in a similar fashion. The dollar sign `$` character in the following figure merely represents your shell prompt. You will almost never begin a terminal command with a dollar sign. Let's say that you're trying to type following example command into your terminal. To do this, you'd begin by pressing the `r` key (`r` as in `ruby`).
+Terminal commands in this book will appear in a similar fashion.
 
 ```bash-session
 $ ruby my_prog.rb
