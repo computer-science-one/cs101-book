@@ -14,9 +14,9 @@
 * [Basics](basics/README.md)
    * Names and identifiers
    * Types
-* [Variables](variables/README.md)
-   * [We love feedback](part2/feedback_please.md)
-   * [Better tools for authors](part2/better_tools.md)
+* Expressions
+   * Operators
+   * Evaluation order
 * [Flow Control](flow_control/README.md)
    * Boolean expressions
    * If statement
