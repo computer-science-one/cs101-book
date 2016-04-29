@@ -12,3 +12,4 @@ class Foobar
 end
 ```
 
+It has a gray background, monospace font, and syntax coloring.
