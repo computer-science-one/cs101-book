@@ -2,8 +2,6 @@
 
 GitBook.
 
-https://computer-science-one.gitbooks.io/cs101-book/content/
-
 
 # Purpose
 
