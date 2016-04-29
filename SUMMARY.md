@@ -1,6 +1,14 @@
 # Summary
 
-* [Introduction](README.md)
+* Prerequisites
+   * 
+* Getting Started
+   * Warp Speed 
+   * 
+* Chapter 0 | Introduction
+   * Computer Science
+   * Ruby
+   * Typographical Conventions
 * [Chapter 1 | Syntax](syntax/README.md)
    * [Writing is nice](part1/writing.md)
    * [GitBook is nice](part1/gitbook.md)
