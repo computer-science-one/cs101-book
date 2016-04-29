@@ -1,5 +1,2 @@
 # Prerequisites
 
-## Installing
-
-## Typographical Conventions
