@@ -4,7 +4,7 @@
 * [Prerequisites](prerequisites/README.md)
    * [Installing](prerequisites/installing.md)
    * [Typographical Conventions](prerequisites/typographical_conventions.md)
-* Getting Started
+* [Getting Started](getting_started/README.md)
    * Warp Speed
 * Chapter 0 | Introduction
    * Computer Science
