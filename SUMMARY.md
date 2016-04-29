@@ -32,9 +32,9 @@
    * For loop
    * Loop modifier statements
 * Methods and Blocks
+   * Scope
    * Method arguments
    * Return values
-   * Scope
 * Advanced Data Types
    * Arrays
    * Hashes
