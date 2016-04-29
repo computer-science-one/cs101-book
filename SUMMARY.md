@@ -40,4 +40,9 @@
    * Hashes
    * Symbols
 * Classes
-   * 
+   * Instance variables
+   * Class variables
+   * Class methods
+   * Visibility
+   * Inheritance
+   * Mixins
