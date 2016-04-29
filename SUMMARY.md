@@ -13,8 +13,9 @@
    * Source Code Files
 * [Basics](basics/README.md)
    * Comments
-   * Identifiers and reserved words
    * Types
+   * Identifiers
+   * Reserved words
 * Expressions
    * Operators
    * Evaluation order
