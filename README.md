@@ -1,3 +1,3 @@
-# Computer Science 101 with Ruby
+# Computer Science 101
 
-The purpose of this book is...
+The purpose of this book is to provide a well-constructedm logical path for beginning programmers.
