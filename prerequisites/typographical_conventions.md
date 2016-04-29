@@ -17,6 +17,6 @@ Terminal commands in this book will appear in a similar fashion.
 ```bash-session
 $ ruby my_prog.rb
 
-I'm the output!
+I'm the output of the program!
 ```
 
