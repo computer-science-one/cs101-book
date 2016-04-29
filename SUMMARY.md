@@ -21,8 +21,8 @@
 * Expressions
    * Operators
    * Evaluation order
-* [Flow Control](flow_control/README.md)
    * Boolean expressions
+* [Flow Control](flow_control/README.md
    * If statement
    * Unless statement
    * Case statement
