@@ -10,10 +10,10 @@
 * [Getting Started](getting_started/README.md)
    * Terminal
    * IRB
-   * Source Code Files
+   * Source code files
 * [Basics](basics/README.md)
    * Comments
-   * Data Types
+   * Data types
    * Identifiers
    * Reserved words
    * Input
