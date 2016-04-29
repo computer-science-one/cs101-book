@@ -13,7 +13,7 @@
    * Source Code Files
 * [Basics](basics/README.md)
    * Comments
-   * Types
+   * Data Types
    * Identifiers
    * Reserved words
    * Input
@@ -34,4 +34,6 @@
 * Methods and Blocks
    * Method arguments
    * Return values
-
+* Advanced Data Types
+   * Arrays
+   * Hashes
