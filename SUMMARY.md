@@ -11,7 +11,7 @@
    * Terminal
    * IRB
    * Source Code Files
-* [Syntax](syntax/README.md)
+* [Basics](basics/README.md)
    * Expressions
    * Statements
 * [Variables](variables/README.md)
