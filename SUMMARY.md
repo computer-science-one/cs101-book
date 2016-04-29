@@ -37,4 +37,5 @@
 * Advanced Data Types
    * Arrays
    * Hashes
+   * Symbols
 * Classes
