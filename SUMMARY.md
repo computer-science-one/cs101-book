@@ -13,7 +13,7 @@
    * Source Code Files
 * [Basics](basics/README.md)
    * Comments
-   * Names and identifiers
+   * Identifiers and reserved words
    * Types
 * Expressions
    * Operators
