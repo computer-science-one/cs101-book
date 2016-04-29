@@ -4,7 +4,7 @@
    * 
 * Getting Started
    * Warp Speed 
-   * 
+
 * Chapter 0 | Introduction
    * Computer Science
    * Ruby
