@@ -1,6 +1,6 @@
 # Typographical Conventions
 
-This is what code looks like:
+*Source code* in this book will appear like this:
 
 ```ruby
 puts "Hello"
