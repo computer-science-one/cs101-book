@@ -12,8 +12,8 @@
    * IRB
    * Source Code Files
 * [Basics](basics/README.md)
-   * Expressions
-   * Statements
+   * Names and identifiers
+   * Types
 * [Variables](variables/README.md)
    * [We love feedback](part2/feedback_please.md)
    * [Better tools for authors](part2/better_tools.md)
