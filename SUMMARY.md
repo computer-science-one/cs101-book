@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Prerequisites](prerequisites/README.md)
-   * Installing
+   * [Installing](prerequisites/installing.md)
    * Typographical Conventions
 * Getting Started
    * Warp Speed
