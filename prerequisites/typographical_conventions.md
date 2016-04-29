@@ -1,6 +1,6 @@
 # Typographical Conventions
 
-Ruby *source code* in this book will appear like this:
+Ruby *source code* in this book will appear like this, with a gray background, monospace font, and syntax coloring.
 
 ```ruby
 puts "Hello"
@@ -11,5 +11,3 @@ class Foobar
   end
 end
 ```
-
-It has a gray background, monospace font, and syntax coloring.
