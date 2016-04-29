@@ -22,6 +22,8 @@
    * Boolean expressions
    * If statement
    * Unless statement
+   * Case statement
 * Loops
-  * W
+   * While loop
+   * For loop
 
