@@ -22,7 +22,7 @@
    * Operators
    * Evaluation order
    * Logical expressions
-* [Flow Control](flow_control/README.md)
+* [Control Structures](flow_control/README.md)
    * If statement
    * Unless statement
    * Case statement
