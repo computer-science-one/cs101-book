@@ -22,11 +22,11 @@
    * Operators
    * Evaluation order
    * Logical expressions
-* [Conditional Expressions](flow_control/README.md)
+* [Conditionals](flow_control/README.md)
    * If expression
    * Unless expression
    * Case expression
-* Iteration Expressions
+* Iteration
    * While loop
    * Until loop
    * For loop
