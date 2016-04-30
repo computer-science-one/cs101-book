@@ -44,5 +44,6 @@
    * Symbols
 * Modules
 * Classes
+   * Inheritance
    * Variables
    * Methods
