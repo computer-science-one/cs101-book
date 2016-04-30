@@ -41,9 +41,11 @@
    * Hashes
    * Symbols
 * Classes and Modules
-   * Instance variables
-   * Class variables
-   * Class methods
-   * Visibility
-   * Inheritance
-   * Mixins
+   * Modules
+   * Classes
+     * Class variables
+     * Class methods
+     * Instance variables
+   * Methods
+     * Parameters
+     * Visibility
