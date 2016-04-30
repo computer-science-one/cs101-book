@@ -18,7 +18,7 @@
    * Variables
    * Reserved words
    * Input
-* Primary Expressions
+* Expressions
    * Operators
    * Evaluation order
    * Logical expressions
@@ -30,11 +30,12 @@
    * While loop
    * Until loop
    * For loop
-   * Loop modifier statements
+   * Jump expressions
 * Methods and Blocks
    * Scope
    * Method arguments
    * Return values
+   * More jump expressions
 * Advanced Data Types
    * Arrays
    * Hashes
