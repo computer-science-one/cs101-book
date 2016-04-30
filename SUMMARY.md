@@ -18,15 +18,15 @@
    * Variables
    * Reserved words
    * Input
-* Expressions
+* Primary Expressions
    * Operators
    * Evaluation order
    * Logical expressions
-* [Control Structures](flow_control/README.md)
+* [Conditional Expressions](flow_control/README.md)
    * If statement
    * Unless statement
    * Case statement
-* Loops
+* Iteration Expressions
    * While loop
    * Until loop
    * For loop
