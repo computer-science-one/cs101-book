@@ -16,6 +16,8 @@
    * Comments
    * Data types
    * Variables
+   * Constants
+   * Literals
    * Reserved words
    * Input
 * Expressions
@@ -33,19 +35,14 @@
    * Jump expressions
 * Methods and Blocks
    * Scope
-   * Method arguments
+   * Parameters
    * Return values
    * More jump expressions
 * Advanced Data Types
    * Arrays
    * Hashes
    * Symbols
-* Classes and Modules
-   * Modules
-   * Classes
-     * Class variables
-     * Class methods
-     * Instance variables
+* Modules
+* Classes
+   * Variables
    * Methods
-     * Parameters
-     * Visibility
