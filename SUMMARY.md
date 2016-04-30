@@ -21,7 +21,7 @@
 * Expressions
    * Operators
    * Evaluation order
-   * Boolean expressions
+   * Logical expressions
 * [Flow Control](flow_control/README.md)
    * If statement
    * Unless statement
