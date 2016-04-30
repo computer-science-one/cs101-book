@@ -15,7 +15,7 @@
    * Output 
    * Comments
    * Data types
-   * Identifiers
+   * Variables
    * Reserved words
    * Input
 * Expressions
@@ -39,7 +39,7 @@
    * Arrays
    * Hashes
    * Symbols
-* Classes
+* Classes and Modules
    * Instance variables
    * Class variables
    * Class methods
