@@ -43,6 +43,8 @@
    * Hashes
    * Symbols
 * Modules
+   * Inclusion
+   * Extension
 * Classes
    * Inheritance
    * Variables
