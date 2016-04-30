@@ -23,9 +23,9 @@
    * Evaluation order
    * Logical expressions
 * [Conditional Expressions](flow_control/README.md)
-   * If statement
-   * Unless statement
-   * Case statement
+   * If expression
+   * Unless expression
+   * Case expression
 * Iteration Expressions
    * While loop
    * Until loop
