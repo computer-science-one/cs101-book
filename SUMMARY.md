@@ -6,13 +6,13 @@
    * [Typographical Conventions](prerequisites/typographical_conventions.md)
 * [History](history/README.md)
    * Computer Science
-   * Ruby
+   * [Ruby](history/ruby.md)
 * [Getting Started](getting_started/README.md)
    * Terminal
    * IRB
    * Source code files
 * [Basics](basics/README.md)
-   * Output 
+   * Output
    * Comments
    * Data types
    * Variables
@@ -49,3 +49,4 @@
    * Inheritance
    * Variables
    * Methods
+
