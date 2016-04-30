@@ -1,6 +1,6 @@
 # Introduction to Computer Science Using Ruby
 
-The purpose of this book is to provide a well-constructed and logical path for learning computer science fundamentals. It uses the Ruby programming language for instruction, examples, and exercises.
+The purpose of this book is to provide a well-constructed, logical path for learning computer science fundamentals. It uses the Ruby programming language for instruction, examples, and exercises.
 
 From the [Ruby language website](https://www.ruby-lang.org/en/),
 
