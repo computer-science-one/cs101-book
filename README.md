@@ -6,4 +6,12 @@ From the [Ruby language website](https://www.ruby-lang.org/en/),
 
 > Ruby is... A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
 
-Ruby is an attractive language choice for both beginning and expert programmers. 
+Ruby is an attractive language choice for both beginning and expert programmers. Some of the features which make it a good introductory language are:
+
+### Non-significant whitespace
+
+Some programming languages require a precise amount of whitespace at the beginning of a line (of code). This is a rather unforgiving environment for beginning programmers. Ruby does not suffer from this problem.
+
+### No semicolons
+
+Several popular programming languages require the termination of lines of code with a semicolon (`;`)
