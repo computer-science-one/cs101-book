@@ -18,4 +18,4 @@ Several popular programming languages require the termination of lines of code w
 
 ### Consistent design
 
-Ruby is a (largely)_consistent_ language. This means that 
+Ruby is a _consistent_ language. This means that 
