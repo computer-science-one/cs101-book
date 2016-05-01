@@ -25,3 +25,26 @@ Ruby is a _consistent_ language. That is to say, it does what you expect (most o
 Other general-purpose languages have odd quirks and hurdles. These inconsistencies can trip up even the most experienced programmers!
 
 ### Write less, do more
+
+Ruby empowers you to do a lot with just a little bit of source code. For example, let's take a look at some introductory-level "Hello world" programs. A "Hello world" program is a simple program which just displays the text, "Hello world" to the screen.
+
+The first one, in Java:
+
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        // Prints "Hello, World" to the terminal window.
+        System.out.println("Hello, world!");
+    }
+}
+```
+
+This is an example intended for first-time programmers? Yikes! There's an awful lot of material to explain here.
+
+Now, let's take a look at the same program in Ruby:
+
+```ruby
+puts "Hello, world!"
+```
+
+This is much more manageable.
