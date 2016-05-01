@@ -1,3 +1,3 @@
 # Prerequisites
 
-This text does not require any prior programming experience.
+You do not need any prior programming experience to utilize this text.
