@@ -12,7 +12,7 @@ Ruby is an attractive language choice for both beginning and expert programmers.
 
 ### Non-significant whitespace
 
-Some programming languages require a precise amount of whitespace at the beginning of a line (of code). This is a rather unforgiving environment for beginning programmers. Ruby does not suffer from the ailment that is significant whitespace.
+Some programming languages require a precise amount of whitespace at the beginning of a line. This is a rather unforgiving environment for beginning programmers. Ruby does not suffer from the ailment that is significant whitespace.
 
 ### No semicolons
 
