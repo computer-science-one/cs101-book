@@ -28,7 +28,7 @@ Other general-purpose languages have odd quirks and hurdles. These inconsistenci
 
 Ruby empowers you to do a lot with just a little bit of source code. For example, let's take a look at some introductory-level "Hello world" programs. A "Hello world" program is a simple program which just displays the text, "Hello world" to the screen.
 
-The first one, in Java:
+The first program, in Java:
 
 ```java
 public class HelloWorld {
@@ -47,4 +47,4 @@ Now, let's take a look at the same program in Ruby:
 puts "Hello, world!"
 ```
 
-This is much more manageable.
+This is much more manageable. Method calls and string literals.
