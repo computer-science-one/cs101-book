@@ -14,4 +14,8 @@ Some programming languages require a precise amount of whitespace at the beginni
 
 ### No semicolons
 
-Several popular programming languages require the termination of lines of code with a semicolon (`;`). Once again, this
+Several popular programming languages require the termination of lines of code with a semicolon (`;`). This is a tough habit to learn. Even experienced programmers forget semicolons!
+
+### Consistent design
+
+Ruby is a (largely)_consistent_ language. This means that 
