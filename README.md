@@ -23,3 +23,5 @@ Some popular programming languages require the termination of lines of code with
 Ruby is a _consistent_ language. That is to say, it does what you expect (most of the time!). By knowing some parts of the language, you can infer that other parts will work similarly. It is a rewarding experience: writing a new line of code for the first time and having it function correctly.
 
 Other general-purpose languages have odd quirks and hurdles. These inconsistencies can trip up even the most experienced programmers!
+
+### Write less, do more
