@@ -18,4 +18,4 @@ Several popular programming languages require the termination of lines of code w
 
 ### ~~No~~ Few surprises
 
-Ruby is a _consistent_ language. That is to say, it does what you expect (most of the time). By knowing some parts of the language, you can infer that other parts will work similarly. It is a rewarding experience: writing a new line of code for the first time and having it function correctly.
+Ruby is a _consistent_ language. That is to say, it does what you expect (most of the time!). By knowing some parts of the language, you can infer that other parts will work similarly. It is a rewarding experience: writing a new line of code for the first time and having it function correctly.
