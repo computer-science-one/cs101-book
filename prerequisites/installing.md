@@ -14,10 +14,14 @@ We highly recommend installing Ruby on your own computer. By doing this, you can
 
 Ruby runs on most operating systems. You can find a list of Ruby installation methods and tools directly on the official ["Installing Ruby"](https://www.ruby-lang.org/en/documentation/installation/) page.
 
-### Windows
+### GNU/Linux
 
-[RubyInstaller](http://rubyinstaller.org/) will get you up and running if you're trying to use Ruby on the Windows operating system.
+All distributions of the GNU/Linux operating system have an official package for Ruby.
 
 ### Mac
 
-### Linux
+You don't need to do anything special if you're on a Mac. Mac OS X ships with Ruby right out-of-the-box. If you want access to a newer Ruby than the pre-installed version, you can use a third-party tool like [RVM](https://rvm.io/).
+
+### Windows
+
+[RubyInstaller](http://rubyinstaller.org/) will get you up and running if you're trying to use Ruby on the Windows operating system.
