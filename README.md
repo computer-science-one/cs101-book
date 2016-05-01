@@ -8,7 +8,7 @@ From the [Ruby language website](https://www.ruby-lang.org/en/),
 
 ## Why Ruby?
 
-Ruby is an attractive language choice for both beginning and expert programmers. Some of the features which make it a good introductory language are:
+Ruby is an attractive language choice for both beginning and expert programmers. Some of the features which make it a good (introductory) language are:
 
 ### Non-significant whitespace
 
