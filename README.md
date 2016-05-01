@@ -39,7 +39,7 @@ public class HelloWorld {
 }
 ```
 
-This is an example intended for first-time programmers? Yikes! There's an awful lot of material to explain here.
+This is an example intended for first-time programmers? Yikes! There's an awful lot of material to explain here. We've got visibility, classes, types, arrays, methods, method calls, parameters, string literals... This is a bit overwhelming, even if you dismiss away some of these concepts as "don't worry about that little guy, it's magic for now".
 
 Now, let's take a look at the same program in Ruby:
 
