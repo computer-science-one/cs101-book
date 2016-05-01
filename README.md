@@ -16,6 +16,6 @@ Some programming languages require a precise amount of whitespace at the beginni
 
 Several popular programming languages require the termination of lines of code with a semicolon (`;`). This is a tough habit to learn. Even experienced programmers forget semicolons!
 
-### ~~No~~ few surprises
+### ~~No~~ Few surprises
 
 Ruby is a _consistent_ language. That is to say, it does what you expect (most of the time). By knowing some parts of the language, you can infer that other parts will work similarly. It is a rewarding experience: writing a new line of code for the first time and having it function correctly.
