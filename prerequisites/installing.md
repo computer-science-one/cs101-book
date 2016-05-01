@@ -1,6 +1,6 @@
 # Installing Ruby
 
-To learn Ruby, you'll need access to a working Ruby interpreter. Fortunately for you, you can try out a Ruby interpreter without installing anything on your computer!
+To learn Ruby, you'll need access to a working Ruby interpreter. As a quick-trial
 
 ## No-install method
 
