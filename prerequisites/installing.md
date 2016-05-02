@@ -16,7 +16,10 @@ Ruby runs on most operating systems. We highly recommend installing Ruby on your
 
 ### GNU/Linux
 
-All worthwhile GNU/Linux distributions have an official package for Ruby. Open a terminal and use the appropriate package manager that corresponds to your distribution.
+All worthwhile GNU/Linux distributions have an official package for Ruby. Detailed install steps:
+
+ 1. Open a terminal
+ 2. Use the appropriate package manager that corresponds to your distribution.
 
 For Arch Linux:
 ```sh-session
