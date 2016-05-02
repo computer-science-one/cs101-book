@@ -27,7 +27,10 @@ For Debian / Ubuntu:
 $ sudo apt-get install ruby
 ```
 
-For Red Hat / Fedora / CentOS
+For Red Hat / Fedora / CentOS:
+```sh-session
+$ sudo dnf install ruby
+```
 
 
 ### Mac
