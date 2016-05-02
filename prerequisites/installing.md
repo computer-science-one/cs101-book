@@ -12,7 +12,7 @@ Fortunately for you, you can try Ruby without installing anything on your comput
 
 Ruby runs on most operating systems. We highly recommend installing Ruby on your own computer. By doing this, you can save your work offline. Additionally, you won't need internet access to try out examples or complete your assignments!
 
-The official "Installing Ruby" page from `ruby-lang.org` You can find a list of Ruby installation methods and tools directly on 
+[The official "Installing Ruby" page from `ruby-lang.org`](https://www.ruby-lang.org/en/documentation/installation/) has an extensive list of Ruby installation methods and tools.
 
 ### GNU/Linux
 
@@ -21,6 +21,14 @@ All worthwhile distributions of the GNU/Linux operating system have an official 
 ```sh-session
 $ sudo pacman -S ruby
 ```
+
+For Debian / Ubuntu:
+```sh-session
+$ sudo apt-get install ruby
+```
+
+For Red Hat / Fedora / CentOS
+
 
 ### Mac
 
