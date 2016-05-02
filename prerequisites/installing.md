@@ -42,17 +42,21 @@ All worthwhile GNU/Linux distributions have an official package for Ruby. Detail
 
 You don't need to do anything special if you're on a Mac. Mac OS X ships with Ruby right out-of-the-box. If you want access to a newer Ruby than the pre-installed version, you can use a third-party tool like [Homebrew](http://brew.sh/) or [RVM](https://rvm.io/).
 
-For Homebrew:
+1. Install your choice of third-party tool.
+2. Open a terminal.
+3. Use the third-party tool:
 
-```sh-session
-$ brew install ruby
-```
+  For Homebrew:
 
-For RVM:
+  ```sh-session
+  $ brew install ruby
+  ```
 
-```sh-session
-$ rvm install 2.3.1
-```
+  For RVM:
+
+  ```sh-session
+  $ rvm install 2.3.1
+  ```
 
 The latest and greatest version of Ruby at this time of writing is `2.3.1`.
 
