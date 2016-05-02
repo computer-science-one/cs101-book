@@ -24,7 +24,13 @@ $ sudo pacman -S ruby
 
 ### Mac
 
-You don't need to do anything special if you're on a Mac. Mac OS X ships with Ruby right out-of-the-box. If you want access to a newer Ruby than the pre-installed version, you can use a third-party tool like [RVM](https://rvm.io/).
+You don't need to do anything special if you're on a Mac. Mac OS X ships with Ruby right out-of-the-box. If you want access to a newer Ruby than the pre-installed version, you can use a third-party tool like [Homebrew](http://brew.sh/) or [RVM](https://rvm.io/).
+
+Once you've installed Homebrew, you can install Ruby by running
+
+```sh-session
+$ brew install ruby
+```
 
 ### Windows
 
