@@ -18,24 +18,25 @@ Ruby runs on most operating systems. We highly recommend installing Ruby on your
 
 All worthwhile GNU/Linux distributions have an official package for Ruby. Detailed install steps:
 
- 1. Open a terminal
+ 1. Open a terminal.
  2. Use the appropriate package manager that corresponds to your distribution.
 
-For Arch Linux:
-```sh-session
-$ sudo pacman -S ruby
-```
+  For Arch Linux:
+  ```sh-session
+  $ sudo pacman -S ruby
+  ```
 
-For Debian / Ubuntu:
-```sh-session
-$ sudo apt-get install ruby
-```
+  For Debian / Ubuntu:
+  ```sh-session
+  $ sudo apt-get install ruby
+  ```
 
-For Red Hat / Fedora / CentOS:
-```sh-session
-$ sudo dnf install ruby
-```
+  For Red Hat / Fedora / CentOS:
+  ```sh-session
+  $ sudo dnf install ruby
+  ```
 
+3. Verify that your installation works by running the IRB
 
 ### Mac
 
