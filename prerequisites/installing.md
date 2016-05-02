@@ -47,13 +47,11 @@ You don't need to do anything special if you're on a Mac. Mac OS X ships with Ru
 3. Use the third-party tool:
 
   For Homebrew:
-
   ```sh-session
   $ brew install ruby
   ```
 
   For RVM:
-
   ```sh-session
   $ rvm install 2.3.1
   ```
