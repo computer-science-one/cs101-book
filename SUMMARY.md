@@ -2,7 +2,7 @@
 
 * [Front Matter](README.md)
 * [Preface](preface/README.md)
-   * Why Ruby?
+   * [Why Ruby?](preface/why_ruby.md)
 * [Prerequisites](prerequisites/README.md)
    * [Installing](prerequisites/installing.md)
    * [Typographical Conventions](prerequisites/typographical_conventions.md)
