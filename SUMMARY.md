@@ -1,6 +1,7 @@
 # Summary
 
 * [Front Matter](README.md)
+* [Preface](preface/README.md)
 * [Prerequisites](prerequisites/README.md)
    * [Installing](prerequisites/installing.md)
    * [Typographical Conventions](prerequisites/typographical_conventions.md)
