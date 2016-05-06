@@ -1,6 +1,6 @@
 # Summary
 
-* [Front Matter](README.md)
+* [Title Page](README.md)
 * [Preface](preface/README.md)
    * [Why Ruby?](preface/why_ruby.md)
 * [Prerequisites](prerequisites/README.md)
