@@ -60,4 +60,24 @@ The latest and greatest version of Ruby at this time of writing is `2.3.1`.
 
 ### Windows
 
-[RubyInstaller](http://rubyinstaller.org/) will get you up and running if you're trying to use Ruby on the Windows operating system.
+[RubyInstaller](http://rubyinstaller.org/) will get you up and running if you're trying to use Ruby on the Windows operating system. After downloading the installer program, follow these instructions to get Ruby fully set up and working on your PC.
+
+1. The installer program does not have a digital signature, so click "Run" at the security warning dialog.
+
+  ![](images/ruby-installer-windows/01.png)
+  
+2. Select your preferred language.
+
+  ![](images/ruby-installer-windows/02.png)
+
+3. Accept the RubyInstaller license agreement.
+
+  ![](images/ruby-installer-windows/03.png)
+
+4. Set install folder and options. Be sure to check both the "Add Ruby executables to your PATH" and "Associate .rb and .rbw files with this Ruby installation" checkboxes.
+
+  ![](images/ruby-installer-windows/04.png)
+
+5. Click the "Finish" button.
+
+  ![](images/ruby-installer-windows/05.png)
