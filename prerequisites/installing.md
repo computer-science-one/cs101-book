@@ -6,7 +6,11 @@ To learn Ruby, you'll need access to a working Ruby interpreter.
 
 Fortunately for you, you can try Ruby without installing anything on your computer!
 
-[Repl.it](https://repl.it/languages/ruby) is a website that gives you an interactive Ruby environment, right from the comfort of your own web browser. If you create an account and sign in, you can even save your "sessions" to your account.
+From the website [Repl.it](https://repl.it/): 
+
+> [Repl.it] is an online environment for interactively exploring programming languages.
+
+Visit [`https://repl.it/languages/ruby`](https://repl.it/languages/ruby) to start an interactive Ruby environment, right from the comfort of your own web browser. If you create an account and sign in, you can even save your "sessions" to your account.
 
 ## Install Ruby on your own computer
 
