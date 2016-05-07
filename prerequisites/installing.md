@@ -52,7 +52,7 @@ You don't need to do anything special if you're on a Mac. Mac OS X ships with Ru
 2. Type the word "Terminal" and press <kbd>Return</kbd>.
 3. On http://brew.sh/ , under the "Install Homebrew" section, paste the provided command into the terminal window you opened in step 2. Press <kbd>Return</kbd>.
 4. Follow any installation instructions.
-5. Once Homebrew is fully installed, use the following command to obtain Ruby:
+5. Once Homebrew has been fully installed, use the following command to install Ruby:
 
   ```sh-session
   $ brew install ruby
