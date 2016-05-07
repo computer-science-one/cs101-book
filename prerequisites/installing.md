@@ -46,6 +46,7 @@ You don't need to do anything special if you're on a Mac. Mac OS X ships with Ru
 
 1. Open spotlight by pressing `Command-Space, or clicking the magnifying glass icon in the upper-right corner of the menu bar.
   ![](images/mac-osx/yosemite-search_button.png)
+
 3. Use the third-party tool:
 
   For Homebrew:
