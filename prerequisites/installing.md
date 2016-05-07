@@ -42,7 +42,7 @@ All worthwhile GNU/Linux distributions have an official package for Ruby. Detail
 
 ### Mac
 
-You don't need to do anything special if you're on a Mac. Mac OS X ships with Ruby right out-of-the-box. If you want to use a more new, or a different version of Ruby than the pre-installed one, we recommend using a third-party tool like [Homebrew](http://brew.sh/) or [RVM](https://rvm.io/).
+You don't need to do anything special if you're on a Mac. Mac OS X ships with Ruby right out-of-the-box. If you want to use a different version of Ruby than the pre-installed one, we recommend using a third-party tool like [Homebrew](http://brew.sh/) or [RVM](https://rvm.io/).
 
 1. Install your choice of third-party tool.
 3. Use the third-party tool:
