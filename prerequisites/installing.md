@@ -44,6 +44,8 @@ All worthwhile GNU/Linux distributions have an official package for Ruby. Detail
 
 You don't need to do anything special if you're on a Mac. Mac OS X ships with Ruby right out-of-the-box. If you want to use a different version of Ruby than the pre-installed one, we recommend using a third-party tool like [Homebrew](http://brew.sh/).
 
+#### How to install Homebrew and the Homebrew-provided Ruby 
+
 1. Open spotlight by pressing <kbd>Command+Space</kbd>. You can also click the magnifying glass icon in the upper-right corner of the menu bar.
   ![](images/mac-osx/yosemite-search_button.png)
 
