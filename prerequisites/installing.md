@@ -49,10 +49,10 @@ You don't need to do anything special if you're on a Mac. Mac OS X ships with Ru
 1. Open spotlight by pressing <kbd>Command+Space</kbd>. You can also click the magnifying glass icon in the upper-right corner of the menu bar.
   ![](images/mac-osx/yosemite-search_button.png)
 
-2. Type the word "Terminal" and press <kbd>Return</kbd> .
+2. Type the word "Terminal" and press <kbd>Return</kbd>.
 3. On http://brew.sh/ , under the "Install Homebrew" section, paste the provided command into the terminal window you opened in step 2. Press <kbd>Return</kbd>.
-
-3. Use Homebrew to install ruby:
+4. Follow any installation instructions.
+5. Once Homebrew is fully installed, use the following command to obtain Ruby:
 
   ```sh-session
   $ brew install ruby
