@@ -1,9 +1,9 @@
 # Summary
 
 * [Title Page](README.md)
-* [Preface](preface/README.md)
-   * [Why Ruby?](preface/why_ruby.md)
 * [Prerequisites](prerequisites/README.md)
+   * [Preface](preface/README.md)
+       * [Why Ruby?](preface/why_ruby.md)
    * [Installing](prerequisites/installing.md)
    * [Typographical Conventions](prerequisites/typographical_conventions.md)
 * [History](history/README.md)
