@@ -16,7 +16,7 @@ Visit [`https://repl.it/languages/ruby`](https://repl.it/languages/ruby) to star
 
 Ruby runs on most operating systems. We highly recommend installing Ruby on your own computer. By doing this, you can run your code offline. Additionally, you won't need internet access to try out examples or complete your assignments!
 
-[The official "Installing Ruby" page from `ruby-lang.org`](https://www.ruby-lang.org/en/documentation/installation/) has an extensive list of Ruby installation methods and tools.
+[The official "Installing Ruby" page from `ruby-lang.org`](https://www.ruby-lang.org/en/documentation/installation/) has an extensive list of Ruby installation methods and tools. The following sections provide brief instructions for installing Ruby on some common platforms.
 
 ### GNU/Linux
 
