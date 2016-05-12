@@ -25,7 +25,7 @@ The first program, in Java:
 ```java
 public class HelloWorld {
     public static void main(String[] args) {
-        // Prints "Hello, World" to the terminal window.
+        // Prints "Hello, world!" to the terminal window.
         System.out.println("Hello, world!");
     }
 }
@@ -36,6 +36,7 @@ This is an example intended for first-time programmers? Yikes! There's an awful 
 Now, let's take a look at the same program in Ruby:
 
 ```ruby
+# Prints "Hello, world!" to the terminal windows
 puts "Hello, world!"
 ```
 
