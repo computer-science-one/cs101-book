@@ -36,7 +36,7 @@ This is an example intended for first-time programmers? Yikes! There's an awful 
 Now, let's take a look at the same program in Ruby:
 
 ```ruby
-# Prints "Hello, world!" to the terminal windows
+# Prints "Hello, world!" to the terminal window
 puts "Hello, world!"
 ```
 
