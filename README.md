@@ -1,6 +1,6 @@
 # Introduction to Computer Science Using Ruby
 
-![](images/ruby.png)
+<img src="images/ruby.png" width="50%">
 
 The purpose of this book is to provide a well-constructed, logical path for learning computer science fundamentals. It uses the Ruby programming language for instruction, examples, and exercises.
 
