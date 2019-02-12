@@ -20,3 +20,6 @@ $ ruby my_prog.rb
 I'm the output of the program!
 ```
 
+> Help, I have no idea what I'm looking at here!
+
+That's fine. This page is meant for experienced programmers. You'll get there in no time!
